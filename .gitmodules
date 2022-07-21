@@ -1,3 +1,12 @@
 [submodule "assignments/homework-3---2022-Noga-Zohar"]
 	path = assignments/homework-3---2022-Noga-Zohar
 	url = https://github.com/sagol-python-for-neuroscientists/homework-3---2022-Noga-Zohar.git
+[submodule "assignments/homework-4---2022-Noga-Zohar"]
+	path = assignments/homework-4---2022-Noga-Zohar
+	url = https://github.com/sagol-python-for-neuroscientists/homework-4---2022-Noga-Zohar.git
+[submodule "assignments/hw5"]
+	path = assignments/hw5
+	url = https://github.com/Noga-Zohar/hw5.git
+[submodule "assignments/homework-6---2022-Noga-Zohar"]
+	path = assignments/homework-6---2022-Noga-Zohar
+	url = https://github.com/sagol-python-for-neuroscientists/homework-6---2022-Noga-Zohar.git
